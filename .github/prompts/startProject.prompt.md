@@ -1,3 +1,8 @@
+---
+mode : 'agent'
+description: 'Generate project vision section of copilot-instruction.md file'
+---
+
 Your goal is to generate a project vision section of a copilot-instruction.md file. 
 
 ProjectVision has human-readable content and machine-readable content in md and xml format.
