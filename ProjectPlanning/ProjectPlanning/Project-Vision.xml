@@ -1,0 +1,32 @@
+<prompt>
+  <section title="Vision">
+    <question>What is your purpose for creating the product?</question>
+    <answer></answer>
+    <question>Which positive change should it bring about?</question>
+    <answer></answer>
+  </section>
+  <section title="Target Group">
+    <question>Which market or market segment does the product address?</question>
+    <answer></answer>
+    <question>Who are the target customers and users?</question>
+    <answer></answer>
+  </section>
+  <section title="Needs">
+    <question>What problem does the product solve?</question>
+    <answer></answer>
+    <question>What benefit does it provide?</question>
+    <answer></answer>
+  </section>
+  <section title="Product">
+    <question>What product is it?</question>
+    <answer></answer>
+    <question>Is it feasible to develop the product?</question>
+    <answer></answer>
+  </section>
+  <section title="Business Goals">
+    <question>How is the product going to benefit the company?</question>
+    <answer></answer>
+    <question>What are the business goals?</question>
+    <answer></answer>
+  </section>
+</prompt>
