@@ -17,12 +17,8 @@ A curated collection of markdown prompts, code snippets, and usage patterns to s
 
 This repository includes a project vision template to help you define and communicate your product's purpose, target group, needs, product feasibility, and business goals.
 
-- See [`ProjectPlanning/Project-Vision.md`](ProjectPlanning/Project-Vision.md) for a ready-to-use vision and requirements table.
+Project Vision : 
+Inspired by the [Product Vision Board by Roman Pichler](https://www.romanpichler.com/tools/product-vision-board/).
 
 The template covers:
 
-- Vision (purpose and positive change)
-- Target Group
-- Needs
-- Product
-- Business Goals
